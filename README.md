@@ -57,14 +57,15 @@ This comprehensive Event Management System provides a complete solution for orga
 
 | 🏠 **Dashboard/Screen** | 📱 **Preview** | 📝 **Description** |
 |:------------------------|:--------------:|:-------------------|
+| **Main Dashboard** | ![Main Dashboard](https://raw.githubusercontent.com/Dreamer007VS/End_to_End_Event_Management_System/main/End%20to%20End%20Event%20Management%20System/screenshots/Main%20Dashboard.jpg) | Central hub with system overview and navigation |
+| **Organizer Dashboard** | ![Organizer Dashboard](https://raw.githubusercontent.com/Dreamer007VS/End_to_End_Event_Management_System/main/End%20to%20End%20Event%20Management%20System/screenshots/Organizer%20Dashboard.jpg) | Main organizer control panel and management interface |
 | **Contact Form** | ![Contact Form](https://raw.githubusercontent.com/Dreamer007VS/End_to_End_Event_Management_System/main/End%20to%20End%20Event%20Management%20System/screenshots/Contact%20Form.jpg) | User-friendly contact interface for inquiries and support |
 | **Co-organizer Assign Judge** | ![Co-organizer assign judge](https://raw.githubusercontent.com/Dreamer007VS/End_to_End_Event_Management_System/main/End%20to%20End%20Event%20Management%20System/screenshots/Co-organizer%20assign%20judge.jpg) | Co-organizer panel for assigning judges to events |
 | **Co-organizer Dashboard** | ![Co-organizer Dashboard](https://raw.githubusercontent.com/Dreamer007VS/End_to_End_Event_Management_System/main/End%20to%20End%20Event%20Management%20System/screenshots/Co-organizer%20Dashboard.jpg) | Comprehensive dashboard for co-organizers |
 | **Judge Dashboard** | ![Judge Dashboard](https://raw.githubusercontent.com/Dreamer007VS/End_to_End_Event_Management_System/main/End%20to%20End%20Event%20Management%20System/screenshots/Judge%20Dashboard.jpg) | Dedicated interface for judges to manage evaluations |
 | **Judge Enter Marksheet** | ![Judge enter marksheet board](https://raw.githubusercontent.com/Dreamer007VS/End_to_End_Event_Management_System/main/End%20to%20End%20Event%20Management%20System/screenshots/Judge%20score%20board.jpg) | Judge scoring and evaluation interface |
-| **Main Dashboard** | ![Main Dashboard](https://raw.githubusercontent.com/Dreamer007VS/End_to_End_Event_Management_System/main/End%20to%20End%20Event%20Management%20System/screenshots/Main%20Dashboard.jpg) | Central hub with system overview and navigation |
 | **Organizer Assign Co-organizer** | ![Organizer assign Co-organizer](https://raw.githubusercontent.com/Dreamer007VS/End_to_End_Event_Management_System/main/End%20to%20End%20Event%20Management%20System/screenshots/Organizer%20assign%20Co-organizer.jpg) | Organizer panel for assigning co-organizers |
-| **Organizer Dashboard** | ![Organizer Dashboard](https://raw.githubusercontent.com/Dreamer007VS/End_to_End_Event_Management_System/main/End%20to%20End%20Event%20Management%20System/screenshots/Organizer%20Dashboard.jpg) | Main organizer control panel and management interface |
+
 | **Participant Dashboard** | ![Participant Dashboard](https://raw.githubusercontent.com/Dreamer007VS/End_to_End_Event_Management_System/main/End%20to%20End%20Event%20Management%20System/screenshots/Participant%20Dashboard.jpg) | Participant portal for event participation |
 | **Participant Registration** | ![Participant Registration](https://raw.githubusercontent.com/Dreamer007VS/End_to_End_Event_Management_System/main/End%20to%20End%20Event%20Management%20System/screenshots/Participant%20Registration.jpg) | Registration form for event participants |
 | **Participant View Events** | ![Participant view events](https://raw.githubusercontent.com/Dreamer007VS/End_to_End_Event_Management_System/main/End%20to%20End%20Event%20Management%20System/screenshots/Participant%20view%20events.jpg) | Event listing and details for participants |
@@ -76,28 +77,4 @@ This comprehensive Event Management System provides a complete solution for orga
 
 > 💡 **Note**: Click on any image to view it in full resolution. All screenshots showcase the responsive design and user-friendly interface of the system.
 ---
-
-<hr/>
-<table style="border: 1px solid black;">
-    <tr>
-        <td style="border: 1px solid black;">
-            Dark mode
-        </td>
-        <td style="border: 1px solid black;">
-            <img src="https://raw.githubusercontent.com/Dreamer007VS/End_to_End_Event_Management_System/main/End to End Event Management System/screenshots/Main Dashboard.jpg" width="200">
-        </td>
-        <td style="border: 1px solid black;">
-            Light Mode
-        </td>
-        <td style="border: 1px solid black;">
-            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/02.png" width="200">
-        </td>
-        <td style="border: 1px solid black;">
-            Countries
-        </td>
-        <td style="border: 1px solid black;">
-            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/03.png" width="200">
-        </td>
-    </tr>
-</table>
 
