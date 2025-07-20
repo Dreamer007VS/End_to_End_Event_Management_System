@@ -46,7 +46,7 @@ The **End-to-End Event Management System** is a centralized platform designed to
             Dark mode
         </td>
         <td style="border: 1px solid black;">
-            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/01.png" width="200">
+            <img src="https://raw.githubusercontent.com/Dreamer007VS/End_to_End_Event_Management_System/main/End to End Event Management System/screenshots/Main Dashboard.jpg" width="200">
         </td>
         <td style="border: 1px solid black;">
             Light Mode
@@ -79,6 +79,46 @@ The **End-to-End Event Management System** is a centralized platform designed to
         </td>
         <td style="border: 1px solid black;">
             <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/06.png" width="200">
+        </td>
+    </tr>
+        <tr>
+        <td style="border: 1px solid black;">
+            Dark mode
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/01.png" width="200">
+        </td>
+        <td style="border: 1px solid black;">
+            Light Mode
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/02.png" width="200">
+        </td>
+        <td style="border: 1px solid black;">
+            Countries
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/03.png" width="200">
+        </td>
+    </tr>
+        <tr>
+        <td style="border: 1px solid black;">
+            Dark mode
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/01.png" width="200">
+        </td>
+        <td style="border: 1px solid black;">
+            Light Mode
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/02.png" width="200">
+        </td>
+        <td style="border: 1px solid black;">
+            Countries
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/03.png" width="200">
         </td>
     </tr>
 </table>
