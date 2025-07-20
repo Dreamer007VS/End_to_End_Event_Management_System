@@ -77,3 +77,6 @@ This comprehensive Event Management System provides a complete solution for orga
 > 💡 **Note**: Click on any image to view it in full resolution. All screenshots showcase the responsive design and user-friendly interface of the system.
 ---
 
+🔐 Note on Source Code Availability
+⚠️ Note: The source code for this project is not included in this repository due to collaboration with other team members and privacy agreements. This repository is intended to showcase the project’s concept, architecture and outcomes.
+
