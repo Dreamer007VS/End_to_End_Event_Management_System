@@ -46,9 +46,9 @@ The **End-to-End Event Management System** is a centralized platform designed to
 
 
 ---
-# 📸 Event Management System - Screenshots Gallery
+# 📸 Event Management System - Screenshots
 
-## 🎯 System Overview
+## 🎯 Overview
 This comprehensive Event Management System provides a complete solution for organizing and managing events with multiple user roles and dashboards.
 
 ---
