@@ -39,3 +39,47 @@ The **End-to-End Event Management System** is a centralized platform designed to
 
 ---
 
+<hr/>
+<table style="border: 1px solid black;">
+    <tr>
+        <td style="border: 1px solid black;">
+            Dark mode
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/01.png" width="200">
+        </td>
+        <td style="border: 1px solid black;">
+            Light Mode
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/02.png" width="200">
+        </td>
+        <td style="border: 1px solid black;">
+            Countries
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/03.png" width="200">
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black;">
+            Category
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/04.png" width="200">
+        </td>
+        <td style="border: 1px solid black;">
+            News Channels (category)
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/05.png" width="200">
+        </td>
+        <td style="border: 1px solid black;">
+            News Page
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://raw.githubusercontent.com/Dreamer007VS/Vision/main/Vision/FLUTTER_NewsApp-master/screenshots/06.png" width="200">
+        </td>
+    </tr>
+</table>
+
